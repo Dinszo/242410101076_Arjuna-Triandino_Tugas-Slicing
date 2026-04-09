@@ -13,4 +13,4 @@ Testimonial yang bisa berubah otomatis
 Notifikasi saat klik tombol beli
 Form untuk menghubungi piihak long black
 ## 📸 Screenshot
-![Preview]("Screenshot 2026-04-09 154019.png")
+![Preview]("[Screenshot 2026-04-09 154019.png](https://github.com/Dinszo/242410101076_Arjuna-Triandino_Tugas-Slicing/blob/main/Screenshot%202026-04-09%20154019.png)")
