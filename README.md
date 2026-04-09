@@ -12,4 +12,5 @@ Daftar menu kopi yang bisa difilter
 Testimonial yang bisa berubah otomatis
 Notifikasi saat klik tombol beli
 Form untuk menghubungi piihak long black
-
+## 📸 Screenshot
+![Preview]("Screenshot 2026-04-09 154019.png")
